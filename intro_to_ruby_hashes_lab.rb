@@ -1,9 +1,6 @@
 def base_hash
 	{
-	  
 	    :railroads => {}
-	  }
-	  countries_and_capitals
 	}
 end
 
