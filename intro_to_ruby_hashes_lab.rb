@@ -1,7 +1,7 @@
 def base_hash
 	{
 	  countries_and_capitals = {
-	    :north_america => {}
+	    :railroads => {}
 	  }
 	  countries_and_capitals
 	}
